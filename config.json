@@ -1,6 +1,8 @@
 {
 	"chat":{
-		"bold_enabled": false
+		"bold_enabled": false,
+		"italic_enabled": false,
+		"underlined_enabled": false
 	},
 	"selfbot":{
 		"enabled": false
@@ -11,12 +13,12 @@
 		"prefix": ""
 	},
 	"user":{
-		"token": "TOKEN"
+		"token": ""
 	},
 	"richpresence":{
-		"client_id": "App ID",
-		"state": "Doing something",
-		"details": "Im are'nt fapping mom!",
+		"client_id": "701297671453016125",
+		"state": "» опа здарова",
+		"details": "» https://vk.com/rxgtrad",
 		"largeImageKey": "",
 		"smallImageKey": "",
 		"timestamp_enabled": true,

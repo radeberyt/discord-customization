@@ -1,4 +1,4 @@
-# discord-js-custom-user-status
+# Discord Customization
 ---------------
 ## WARNING! You can be banned for using this repository (for rich presence no)
 ## ВНИМАНИЕ! Вы можете быть забанены за использование этого репозитория (за rich presence нет)

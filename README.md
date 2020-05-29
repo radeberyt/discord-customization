@@ -1,5 +1,8 @@
 # discord-js-custom-user-status
-
+---------------
+## WARNING! You can be banned for using this repository (for rich presence no)
+## ВНИМАНИЕ! Вы можете быть забанены за использование этого репозитория (за rich presence нет)
+---------------
 ## EN
 
 - Install Node.JS (https://nodejs.org/en/)

@@ -1,7 +1,7 @@
 # Discord Customization
 ---------------
-## WARNING! You can be banned for using this repository (for rich presence no)
-## ВНИМАНИЕ! Вы можете быть забанены за использование этого репозитория (за rich presence нет)
+## WARNING! You can be banned for using selfbot from this rep
+## ВНИМАНИЕ! Вы можете быть забанены за использование самобота из этого репозитория
 ---------------
 ## EN
 

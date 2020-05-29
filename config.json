@@ -1,0 +1,25 @@
+{
+	"chat":{
+		"bold_enabled": false
+	},
+	"selfbot":{
+		"enabled": false
+	},
+	"status":{
+		"type": "WATCHING",
+		"enabled": false,
+		"prefix": ""
+	},
+	"user":{
+		"token": "TOKEN"
+	},
+	"richpresence":{
+		"client_id": "App ID",
+		"state": "Doing something",
+		"details": "Im are'nt fapping mom!",
+		"largeImageKey": "",
+		"smallImageKey": "",
+		"timestamp_enabled": true,
+		"enabled": true
+	}
+}

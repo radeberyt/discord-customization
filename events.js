@@ -25,6 +25,7 @@ module.exports.onMessage = function(config, message){
           message.edit("__***" + message.content + "***__")
         }
     }
+    message.delete();
     if(message.content.startsWith("m!setstatus")){
            client.user.setPresence({
         game: {

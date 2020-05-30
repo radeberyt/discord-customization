@@ -10,7 +10,8 @@
 	"status":{
 		"type": "WATCHING",
 		"enabled": false,
-		"prefix": ""
+		"prefix": "",
+		"text": "not hentai"
 	},
 	"user":{
 		"token": ""

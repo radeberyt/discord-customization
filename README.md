@@ -9,20 +9,19 @@
 - Install Node.JS (https://nodejs.org/en/)
 - Download this repository
 - Go to 'main.js' directory
-- Open cmd
-- Write 'npm install'
+- Open 'package.install.bat'
 - Open "config.json" (in editor!)
 - Change all fields to your values
-- Run "main.js" using "node main" in cmd
+- Run 'run.bat'
 - Done!
 
 ## RU
 
 - Установите Node.JS (https://nodejs.org/en/)
 - Скачайте этот репозиторий
-- Откройте директорию файла 'main.js' в командной строке
-- Введите 'npm install'
+- Откройте директорию файла 'main.js'
+- Откройте 'package.install.bat'
 - Откройте "config.json" (в редакторе)
 - Измените значения всех полей на ваши
-- Запустите "main.js" через "node main" в командной строке
+- Запустите 'run.bat'
 - Готово!
